@@ -31,8 +31,8 @@ This project integrates meteorological analysis and machine learning to estimate
 ---
 
 # Requirements
-Python 3.8+
-pandas, numpy, scikit-learn, joblib
+- Python 3.8+
+- pandas, numpy, scikit-learn, joblib
 
 
 # Notes
