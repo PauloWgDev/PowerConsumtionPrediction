@@ -24,15 +24,18 @@ This project integrates meteorological analysis and machine learning to estimate
 
 ---
 
+# Power Consumption Model Performance
+
+![image](https://github.com/user-attachments/assets/066e67e0-5000-45ac-b778-55b28ea51da0)
+
+---
+
 # Requirements
 Python 3.8+
 pandas, numpy, scikit-learn, joblib
 
+
 # Notes
 Project covers data from June 2024 to May 2025.
-
-# Power Consumption Model Performance
-
-![image](https://github.com/user-attachments/assets/066e67e0-5000-45ac-b778-55b28ea51da0)
 
 
